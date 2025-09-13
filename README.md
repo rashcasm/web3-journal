@@ -4,6 +4,7 @@ This repo is my **learning log + code experiments** while going through Rust and
 Every tutorial, video, and program I follow gets its own mini-project or notes here.  
 
 The goal:  
+- Portfolio : [rashcasm.github.io](https://rashcasm.github.io)
 - Build fundamentals in **Rust** and **JavaScript** (for Solana + Web3).  
 - Track progress in public.  
 - Have a reference repo for future hackathons, projects, and interviews.  
