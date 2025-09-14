@@ -17,10 +17,12 @@ The goal:
 - [Blueshift.gg Challenge 1](https://learn.blueshift.gg/en/challenges/anchor-vault)  
 - [School of Solana S7 - Youtube](https://www.youtube.com/playlist?list=PLzUrW5H8-hDfyd0xu7gc8ZMmzBg8k_dz2) 
 - [Rust - Cyfrin Updraft](https://updraft.cyfrin.io/courses/rust-programming-basics)
+- [CPIs in Solana](https://www.youtube.com/watch?v=wSRviwBG3zo&list=PLzUrW5H8-hDfyd0xu7gc8ZMmzBg8k_dz2&index=4)
 
 - More coming soon...  
 
 ### Code?
+- [CPIs in Solana](https://github.com/rashcasm/cross-program-invo-solana)
 - [Solana Vault](https://github.com/rashcasm/Solana_vault_v1)
 - [HackQuest Rust](https://github.com/rashcasm/Hackq_rust)
 - [Stellar Mint](https://github.com/rashcasm/nft_seq_min_stellar)
