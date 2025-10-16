@@ -28,7 +28,11 @@ The goal:
 - [Solana Vault](https://github.com/rashcasm/Solana_vault_v1)
 - [HackQuest Rust](https://github.com/rashcasm/Hackq_rust)
 - [Stellar Mint](https://github.com/rashcasm/nft_seq_min_stellar)
-
+- [airdrop_TS] (https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/airdrop)
+- [airdrop_RS] (https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/airdrop2)
+- [SPL_tokens_t3] (https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/solana-starter/ts/cluster1)
+- [NFT_mint_t3] (https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/solana-starter/ts/cluster1)
+- [Anchor_vault_t3] (https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/anchor-vault-starter-q4-25)
 - Turbin3 Codes in [Here](https://github.com/rashcasm/Q4_25_Builder_Rashmin)
 
 - More coming soon...  
