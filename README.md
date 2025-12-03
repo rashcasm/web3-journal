@@ -34,6 +34,7 @@ The goal:
 - [Anchor-AMM](https://github.com/rashcasm/anchor-amm)
 - Turbin3 Codes in [Here](https://github.com/rashcasm/Q4_25_Builder_Rashmin)
 - [Ekonos](https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/ekonos)
+- [School of Solana S8 tasks](https://github.com/rashcasm/ackee-school-of-solana-s8)
 
 
 
