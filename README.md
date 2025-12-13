@@ -22,6 +22,7 @@ The goal:
 -
 
 ### Code?
+- [rust-lang-book](https://github.com/rashcasm/rust-lang-book)
 - [CPIs in Solana](https://github.com/rashcasm/cross-program-invo-solana)
 - [Solana Vault](https://github.com/rashcasm/Solana_vault_v1)
 - [HackQuest Rust](https://github.com/rashcasm/Hackq_rust)
