@@ -3,16 +3,7 @@
 This repo is my **learning log + code experiments** while going through Rust and Solana resources.  
 Every tutorial, and program I follow gets its own mini-project or notes here.  
 
----
-
-## 📚 Resources Covered  
-- [Rust book](https://doc.rust-lang.org/book/)
-- [Blueshift.gg](https://learn.blueshift.gg/en/challenges)  
-- [School of Solana S7 - Youtube](https://www.youtube.com/playlist?list=PLzUrW5H8-hDfyd0xu7gc8ZMmzBg8k_dz2) 
-- [Rust - Cyfrin Updraft](https://updraft.cyfrin.io/courses/rust-programming-basics)
-- [Metaplex and Metadata stuff](https://developers.metaplex.com/token-metadata)
-
-### Code?
+### Codes that I did
 - [rust-lang-book](https://github.com/rashcasm/rust-lang-book)
 - [minigrep-rustbook](https://github.com/rashcasm/minigrep-rustbook)
 - [CPIs in Solana](https://github.com/rashcasm/cross-program-invo-solana)
@@ -30,4 +21,9 @@ Every tutorial, and program I follow gets its own mini-project or notes here.
 - [School of Solana S8 tasks](https://github.com/rashcasm/ackee-school-of-solana-s8)
 
 
-
+## 📚 Resources Covered  
+- [Rust book](https://doc.rust-lang.org/book/)
+- [Blueshift.gg](https://learn.blueshift.gg/en/challenges)  
+- [School of Solana](https://www.youtube.com/playlist?list=PLzUrW5H8-hDfyd0xu7gc8ZMmzBg8k_dz2) 
+- [Rust - Cyfrin Updraft](https://updraft.cyfrin.io/courses/rust-programming-basics)
+- [Metaplex and Metadata stuff](https://developers.metaplex.com/token-metadata)
