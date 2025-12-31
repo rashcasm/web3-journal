@@ -1,8 +1,5 @@
 # Rust & Solana Learning Repo  
 
-This repo is my **learning log + code experiments** while going through Rust and Solana resources.  
-Every tutorial, and program I follow gets its own mini-project or notes here.  
-
 ### Codes that I did
 - [rust-lang-book](https://github.com/rashcasm/rust-lang-book)
 - [minigrep-rustbook](https://github.com/rashcasm/minigrep-rustbook)
