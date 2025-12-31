@@ -3,6 +3,7 @@
 ### Codes that I did
 - [rust-lang-book](https://github.com/rashcasm/rust-lang-book)
 - [minigrep-rustbook](https://github.com/rashcasm/minigrep-rustbook)
+- [Web Server in Rust](https://github.com/rashcasm/rust_web_server)
 - [CPIs in Solana](https://github.com/rashcasm/cross-program-invo-solana)
 - [Solana Vault](https://github.com/rashcasm/Solana_vault_v1)
 - [HackQuest Rust](https://github.com/rashcasm/Hackq_rust)
